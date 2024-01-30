@@ -1,0 +1,24 @@
+Assignment 0
+Basic Questions Web Development 
+
+
+Q1. What is HTML?
+Ans: HTML stands for Hyper-Text Markup Language. 
+     In simple words, it provides/creates the base(structure) of a website. It consists of elements & elements are kept within the tags, E.g. <head> ... </head>. Here "head" is an   element and "<head>" is the opening and "</head>" is the closing of head element. We write our code for "head" within it. In the same way, there are many elements with different uses. Using them, we write our code & give a website a proper structure as per our need. 
+
+
+2.What is CSS?
+Ans: CSS stands for Cascading Style Sheets.
+     With the help of CSS, we describe the look and formatting of a website written in HTML language. It is generally used with HTML to change the style of web pages and user interfaces. 
+
+
+3.What is the difference between front-end and back-end development?
+Ans: In Front-end development, we develop the structures, looks and formatting of a website (i.e. UI/UX). It is done through HTML & CSS and some advance designs with the help of javascript too.
+In Back-end developments, it contains behind-the-scene activities that occur when performing any action on a website. It can be an account login or making a purchase from an online store.
+
+
+4.What is JavaScript?
+Ans: JavaScript is an object-based scripting language which is lightweight and cross-platform. It is an interpreted, full-fledged programming language that enables dynamic interactivity on websites when applied to an HTML document. It is used for both frontend cum backend development.
+
+5.What is a responsive web design?
+Ans: Responsive web design responds to the needs of the users and the devices they're using. The layout of a responsive webpage changes based on the size and capabilities of the device. For example, If we use PW Skills website in Laptop, then it opens as per our laptop screen & the same website, if we open in our mobile phone, it opens as per our mobile screen size. 
